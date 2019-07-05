@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spa
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# 02-Spa
+Practica angular4
+>>>>>>> f3635ab14eb6f5e784f04c9e82916c693cee75c2
